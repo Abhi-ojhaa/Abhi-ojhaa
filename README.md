@@ -3,7 +3,7 @@
 
 
 
-# I am an Computer engineering student currently studying at Wright state university
+** I am an Computer engineering student currently studying at Wright state university **
 
 
 
