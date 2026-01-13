@@ -1,6 +1,8 @@
 ## Hi there 👋
-## Abhinav Ojha
-## Computer Engineering
+## Name
+### Abhinav Ojha
+## Major
+#### COmputer Engineering
 
 
 
