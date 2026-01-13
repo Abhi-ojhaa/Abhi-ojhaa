@@ -1,8 +1,7 @@
-## Hi there 👋
-Name:
 ### Abhinav Ojha
-## Major:
-### Computer Engineering
+/Abhi-ojhaa/
+I am an Computer engineering student currently studying at Wright state university
+
 
 
 
