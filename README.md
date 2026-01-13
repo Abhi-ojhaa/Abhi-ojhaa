@@ -7,10 +7,8 @@
 
 ### My Intented Project:
 
-(1) [Ball Tracking](https://github.com/Abhi-ojhaa/balltrack) - **I need to complete it and make it on all background it doesnot work on certain type of background**
-
-
-(2) [Page](https://github.com/Abhi-ojhaa/book) -**It reads and parses Pdf file and will report the total page and help extract what is in certain page of the book I want to update it and add certain new feature.**
++ [Ball Tracking](https://github.com/Abhi-ojhaa/balltrack) - **I need to complete it and make it on all background it doesnot work on certain type of background**
++ [Page](https://github.com/Abhi-ojhaa/book) -**It reads and parses Pdf file and will report the total page and help extract what is in certain page of the book I want to update it and add certain new feature.**
 
 
 
